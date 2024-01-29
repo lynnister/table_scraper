@@ -1,1 +1,1 @@
-# table_scraper
+# Table scraper for aad.archives.gov
